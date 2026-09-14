@@ -4,7 +4,7 @@
 
 🎓 Studying Computer Science (Intelligent Systems) at Bina Nusantara University, Indonesia
 
-🏫 School projects & coursework live on my other account → **[@zazuay](https://github.com/zazuay)**  — this profile is my personal / independent work
+🏫 School projects & coursework live on my other account → **[@zazuay](https://github.com/zazuay)**  - this profile is my personal / independent work
 
 ---
 
