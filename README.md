@@ -44,23 +44,3 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahrapriyono&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahrapriyono&layout=compact)
-
----
-
-### 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=zahrapriyono)
-
----
-
-### 📌 Featured / Pinned
-
-Pin your strongest independent repos here manually from GitHub's profile settings — e.g. any personal ML projects not tied to a course.
